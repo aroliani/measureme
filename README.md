@@ -1,7 +1,7 @@
 # MEASUREME
 ### Because Weight Isn't a Size.
 
-![MEASUREME Banner](measureme-spec-type.berrry.app.png)
+![MEASUREME Banner](measureme-spec-type.berrry.app_.png)
 
 **MEASUREME** is an AI-assisted fashion-tech prototype developed for the **She Builds Hackathon – Women in Tech**, organized by La French Tech Indonesia.
 
